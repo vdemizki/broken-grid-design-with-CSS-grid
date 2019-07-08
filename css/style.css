@@ -64,7 +64,7 @@ body{
 }
 
 .img1 {
-  background-image: url("/images/topic1_img1.png");
+  background-image: url("../images/topic1_img1.png");
   background-repeat: no-repeat;
   background-size: cover;
   grid-column: 6/10;
@@ -72,7 +72,7 @@ body{
 }
 
 .img2 {
-  background-image: url("/images/topic1_img2.png");
+  background-image: url("../images/topic1_img2.png");
   background-repeat: no-repeat;
   background-size: cover;
   grid-column: 4/8;
@@ -80,7 +80,7 @@ body{
 }
 
 .img3 {
-  background-image: url("/images/topic1_img3.png");
+  background-image: url("../images/topic1_img3.png");
   background-repeat: no-repeat;
   background-size: cover;
   grid-column: 5/9;
